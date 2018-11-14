@@ -1,0 +1,16 @@
+{
+    "name": "tobias-redmann/laravel-logging-middleware",
+    "description": "Middleware to log requests and responses",
+    "authors": [
+        {
+            "name": "Tobias Redmann",
+            "email": "tr@besserdich-redmann.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "BUR\\": "src"
+        }
+    },
+    "require": {}
+}
